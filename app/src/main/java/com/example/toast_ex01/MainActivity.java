@@ -30,12 +30,12 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-        button01.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Toast.makeText(getApplicationContext(), "HI", Toast.LENGTH_LONG).show();
-            }
-        });
+//        button01.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View view) {
+//                Toast.makeText(getApplicationContext(), "HI", Toast.LENGTH_LONG).show();
+//            }
+//        });
 
         button02.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -55,4 +55,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    public void button01clicked(View v) {
+        Toast.makeText(getApplicationContext(), "HI", Toast.LENGTH_LONG).show();
+    }
 }

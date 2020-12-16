@@ -13,7 +13,8 @@
         android:layout_height="wrap_content"
         android:text="HI"
         android:textSize="20dp"
-        app:backgroundTint="#03A9F4"/>
+        app:backgroundTint="#03A9F4"
+        android:onClick="button01clicked"/>
 
     <Button
         android:id="@+id/button02"
