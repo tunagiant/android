@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Image_ex01</string>
+    <string name="button">이미지 변환</string>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CheckBox_ex01</string>
+    <string name="checkbox_sizeS">S</string>
+    <string name="checkbox_sizeM">M</string>
+    <string name="checkbox_sizeL">L</string>
+</resources>
