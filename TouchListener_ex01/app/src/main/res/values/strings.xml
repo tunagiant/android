@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TouchListener_ex01</string>
+    <string name="button01">터치</string>
+</resources>
